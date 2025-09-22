@@ -1,9 +1,3 @@
-# Fraud_Detection_Bank
-
-Absolutely! Here’s a professional and comprehensive README for your Bank Fraud Detection SQL Project. You can include this in your PPT as a slide or handout. I’ve structured it so it’s clear, concise, and impressive for presentation purposes.
-
----
-
 # Bank Fraud Detection SQL Project
 
 ## Project Overview
